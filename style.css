@@ -1,0 +1,15 @@
+h1 {
+  color: darkolivegreen;
+}
+
+.summary-text {
+  color: peachpuff;
+}
+.contact {
+  border-color: darkgray;
+  border-width: 2px;
+  border-style: solid;
+  background-color: lightgray;
+  margin: 20px;
+  padding: 20px;
+}
